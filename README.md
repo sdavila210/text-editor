@@ -24,6 +24,8 @@ This is a progressive web application that is called JATE; Just Another Text Edi
 
   Here is a link to the deployed application:
     https://text-editor-1-fqpx.onrender.com
+
+    ![JATE web application appearance](./assets/JATEscreenshot.png)
   
 
   ## Contribution
