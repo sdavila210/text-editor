@@ -4,7 +4,8 @@ A text editor application that runs in the browser and is a single-page applicat
 ## Description
 This is a progressive web application that is called JATE; Just Another Text Editor. This text editor is a single page application that runs in the browser. 
 
-
+ ![JATE web application appearance](./assets/JATEscreenshot.png)
+  
   ## Table of Contents
   1. [Installation](#installation)
   2. [Usage](#usage)
@@ -24,9 +25,6 @@ This is a progressive web application that is called JATE; Just Another Text Edi
 
   Here is a link to the deployed application:
     https://text-editor-1-fqpx.onrender.com
-
-    ![JATE web application appearance](./assets/JATEscreenshot.png)
-  
 
   ## Contribution
   N/A
